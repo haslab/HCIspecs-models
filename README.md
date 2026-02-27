@@ -1,7 +1,5 @@
 # Contributing to HCIspecs
 
-Thank you for your interest in contributing to HCIspecs.
-
 HCIspecs is a curated repository of interaction models used in research and teaching.
 All submissions are reviewed before publication to ensure consistency, completeness, and long-term maintainability.
 
