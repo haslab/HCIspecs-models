@@ -1,5 +1,5 @@
 ---
-record_id: "P-TEMP"
+record_id: "p-TEMP"
 
 title: ""
 

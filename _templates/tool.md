@@ -1,7 +1,7 @@
 ---
-record_id: "T-TEMP"
+record_id: "t-TEMP"
 name: ""
 description: ""
 version: "1.0"
-tool_url: "https://..."
+tool_url: ""
 ---
