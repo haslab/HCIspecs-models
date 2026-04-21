@@ -6,8 +6,10 @@ description: ""
 submitted_by:
   - "u-0000"
 tool: "t-0000"
+tool-version: ""
 language: ""
 publications: []
+related_models: []
 
 versions:
   - version: "1.0"
