@@ -14,4 +14,5 @@ versions:
     date: 2026-01-01T00:00:00Z
     label: "Initial release"
     file: /assets/models/m-TEMP/m-TEMP_v1.0.zip
+latest_date: 2026-01-01
 ---
